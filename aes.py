@@ -1,6 +1,6 @@
 ###################################
 # 
-# buing(buing@icloud.com)
+# Jinwoong Choi buing(buing@icloud.com)
 #
 # aes 128bit
 #
